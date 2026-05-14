@@ -1,0 +1,39 @@
+{
+    "apis": [
+        {
+            "name": "DepSearch",
+            "type": "get",
+            "url": "https://api.depsearch.sbs/search",
+            "headers": {
+                "Authorization": "Bearer WDTHx2vqZGE38gchBe7oAewzB9ZPNpxU",
+                "Accept": "application/json"
+            },
+            "query_param": "q",
+            "enabled": true
+        },
+        {
+            "name": "BigBase",
+            "type": "post",
+            "url": "https://bigbase.top/api/search",
+            "headers": {
+                "Authorization": "BOqMzQ63vPTPKs7gfUDrJru62SX2JaqC",
+                "Content-Type": "application/json"
+            },
+            "body_template": {
+                "search": "{query}"
+            },
+            "enabled": false
+        },
+        {
+            "name": "InfinityCheck",
+            "type": "get",
+            "url": "https://api.infinitycheck.sbs/search",
+            "headers": {
+                "Authorization": "Bearer R8fK2Lm9QWv3E7ZpD1yU4C6VtX5H0BJs",
+                "Accept": "application/json"
+            },
+            "query_param": "q",
+            "enabled": true
+        }
+    ]
+}
