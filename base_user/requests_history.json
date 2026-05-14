@@ -1,0 +1,59 @@
+{
+  "2026-05-12": {
+    "date": "2026-05-12",
+    "total_requests": 5,
+    "total_amount": 750,
+    "requests": [
+      {
+        "timestamp": "2026-05-12 18:10:55",
+        "admin_id": 8303714098,
+        "admin_username": "meskatov",
+        "user_id": 8303714098,
+        "user_username": "meskatov",
+        "amount": 200,
+        "balance_before": 0,
+        "balance_after": 200
+      },
+      {
+        "timestamp": "2026-05-12 18:11:02",
+        "admin_id": 8303714098,
+        "admin_username": "meskatov",
+        "user_id": 7250186051,
+        "user_username": "cheloveeek123",
+        "amount": 200,
+        "balance_before": 2,
+        "balance_after": 202
+      },
+      {
+        "timestamp": "2026-05-12 18:12:50",
+        "admin_id": 8303714098,
+        "admin_username": "meskatov",
+        "user_id": 916364731,
+        "user_username": "meketov",
+        "amount": 200,
+        "balance_before": 3,
+        "balance_after": 203
+      },
+      {
+        "timestamp": "2026-05-12 18:12:50",
+        "admin_id": 8303714098,
+        "admin_username": "meskatov",
+        "user_id": 5999635692,
+        "user_username": null,
+        "amount": 50,
+        "balance_before": 3,
+        "balance_after": 53
+      },
+      {
+        "timestamp": "2026-05-12 18:23:00",
+        "admin_id": 8303714098,
+        "admin_username": "meskatov",
+        "user_id": 8253593265,
+        "user_username": null,
+        "amount": 100,
+        "balance_before": 3,
+        "balance_after": 103
+      }
+    ]
+  }
+}

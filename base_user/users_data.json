@@ -1,0 +1,423 @@
+{
+  "8303714098": {
+    "user_id": 8303714098,
+    "username": "meskatov",
+    "first_name": "мескатов",
+    "last_name": null,
+    "first_seen": "2026-05-12 17:59:33",
+    "last_seen": "2026-05-14 17:28:49",
+    "total_searches": 13,
+    "total_requests_received": 200,
+    "total_requests_used": 13,
+    "current_balance": 187,
+    "search_history": [
+      {
+        "date": "2026-05-12 18:00:04",
+        "query": "👑 Админ панель",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"results\": [{\"firstname\": \"Информация\", \"lastname\": \"Админ-Панель\", \"gender\": \"Мужской\", \"dob\": \"01.01.1902\", \"city\": \"Санкт-Петербург\", \"vk_id\": 552185080, \"data\": \"vk_08_2023\"}]}\n{\"count_result\": 1, \"count_in_page\": 50, \"records\": [{\"base_info\": {\"name\": \"Намбастер 2019\", \"description\": \"Намбастер - это телефонное сообщество к которому пользователи могут получить доступ через клиент мобильного телефона и веб-приложение.\", \"date_relevance\": \"2019\"}, \"record_id\": \"UQee5EKzj0\", \"base_record\": [["
+      },
+      {
+        "date": "2026-05-12 18:01:08",
+        "query": "🔍 Поиск",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"count_result\": 0, \"count_in_page\": 50, \"records\": [], \"free_request\": true, \"time\": 0.001, \"user\": {\"login\": \"OmarMatin\", \"api_token\": \"BOqMzQ63vPTPKs7gfUDrJru62SX2JaqC\", \"subscribe\": 194804, \"subscribe_queries\": 95, \"queries\": 0, \"balance\": 0, \"referral_stats\": [[2, 1, 0], [0, 0, 0], [0, 0, 0]], \"referral_url\": \"https://dxdx.href.bot/\", \"rate\": [{\"100\": 20, \"1000\": 100, \"10000\": 500}, {\"30\": 30, \"90\": 60, \"360\": 180}]}, \"hidden\": false}"
+      },
+      {
+        "date": "2026-05-12 18:01:48",
+        "query": "🔍 Поиск",
+        "result_preview": "Найдено: ООО ОХРАННОЕ ПРЕДПРИЯТИЕ ПОИСК ООО ОХРАННОЕ ПРЕДПРИЯТИЕ ПОИСК, ПОИСК ООО СМФ",
+        "full_result": "{\"results\": [{\"user_id\": \"27722259\", \"user_id2\": \"28553375\", \"fio\": \"ООО ОХРАННОЕ ПРЕДПРИЯТИЕ ПОИСК ООО ОХРАННОЕ ПРЕДПРИЯТИЕ ПОИСК\", \"address\": \"ЯРОСЛАВЛЬ\", \"imei\": \"НОСКОВА УЛИЦА\", \"imsi\": \"21\", \"serial_sim\": \"6\", \"data\": \"abonents_2015\"}, {\"user_id\": \"13438992\", \"user_id2\": \"14050024\", \"fio\": \"ПОИСК ООО СМФ\", \"address\": \"420073 КАЗАНЬ КАЗАНЬ ГВАРДЕЙСКАЯ УЛИЦА 22\", \"phone\": \"79033415613\", \"data\": \"abonents_2015\"}, {\"user_id\": \"6670220\", \"user_id2\": \"6737884\", \"fio\": \"ПОИСК ОБЩЕСТВО С ОГРАНИЧЕНН"
+      },
+      {
+        "date": "2026-05-12 18:21:13",
+        "query": "👑 Админ панель",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"results\": [{\"firstname\": \"Информация\", \"lastname\": \"Админ-Панель\", \"gender\": \"Мужской\", \"dob\": \"01.01.1902\", \"city\": \"Санкт-Петербург\", \"vk_id\": 552185080, \"data\": \"vk_08_2023\"}]}\n{\"count_result\": 1, \"count_in_page\": 50, \"records\": [{\"base_info\": {\"name\": \"Намбастер 2019\", \"description\": \"Намбастер - это телефонное сообщество к которому пользователи могут получить доступ через клиент мобильного телефона и веб-приложение.\", \"date_relevance\": \"2019\"}, \"record_id\": \"UQee5EKzj0\", \"base_record\": [["
+      },
+      {
+        "date": "2026-05-12 18:23:30",
+        "query": "👑 Админ панель",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"results\": [{\"firstname\": \"Информация\", \"lastname\": \"Админ-Панель\", \"gender\": \"Мужской\", \"dob\": \"01.01.1902\", \"city\": \"Санкт-Петербург\", \"vk_id\": 552185080, \"data\": \"vk_08_2023\"}]}\n{\"count_result\": 1, \"count_in_page\": 50, \"records\": [{\"base_info\": {\"name\": \"Намбастер 2019\", \"description\": \"Намбастер - это телефонное сообщество к которому пользователи могут получить доступ через клиент мобильного телефона и веб-приложение.\", \"date_relevance\": \"2019\"}, \"record_id\": \"UQee5EKzj0\", \"base_record\": [["
+      },
+      {
+        "date": "2026-05-12 18:26:46",
+        "query": "admin_give_menu",
+        "result_preview": "Ничего не найдено",
+        "full_result": ""
+      },
+      {
+        "date": "2026-05-12 18:27:02",
+        "query": "+79149381139",
+        "result_preview": "Ничего не найдено",
+        "full_result": ""
+      },
+      {
+        "date": "2026-05-14 16:51:54",
+        "query": "👑 Админ панель",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"results\": [{\"firstname\": \"Информация\", \"lastname\": \"Админ-Панель\", \"gender\": \"Мужской\", \"dob\": \"01.01.1902\", \"city\": \"Санкт-Петербург\", \"vk_id\": 552185080, \"data\": \"vk_08_2023\"}]}\n{\"count_result\": 1, \"count_in_page\": 50, \"records\": [{\"base_info\": {\"name\": \"Намбастер 2019\", \"description\": \"Намбастер - это телефонное сообщество к которому пользователи могут получить доступ через клиент мобильного телефона и веб-приложение.\", \"date_relevance\": \"2019\"}, \"record_id\": \"UQee5EKzj0\", \"base_record\": [["
+      },
+      {
+        "date": "2026-05-14 16:52:01",
+        "query": "👑 Админ панель",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"results\": [{\"firstname\": \"Информация\", \"lastname\": \"Админ-Панель\", \"gender\": \"Мужской\", \"dob\": \"01.01.1902\", \"city\": \"Санкт-Петербург\", \"vk_id\": 552185080, \"data\": \"vk_08_2023\"}]}\n{\"count_result\": 1, \"count_in_page\": 50, \"records\": [{\"base_info\": {\"name\": \"Намбастер 2019\", \"description\": \"Намбастер - это телефонное сообщество к которому пользователи могут получить доступ через клиент мобильного телефона и веб-приложение.\", \"date_relevance\": \"2019\"}, \"record_id\": \"UQee5EKzj0\", \"base_record\": [["
+      },
+      {
+        "date": "2026-05-14 16:52:27",
+        "query": "🔍 Поиск",
+        "result_preview": "Найдено: Продуктов Поиск Сергеевич, МБУ ДО ЦВР ПОИСК Г.О. САМАРА",
+        "full_result": "{\"results\": [{\"bday\": \"1921-01-01\", \"credit_card\": \"5486553002650638\", \"card_expiration\": \"2028-12-31\", \"phone\": \"79162228728\", \"name\": \"Продуктов Поиск Сергеевич\", \"data\": \"alfabank_2023_v2\"}, {\"email\": \"fei.fedorova@yandex.ru\", \"full_name\": \"МБУ ДО ЦВР ПОИСК Г.О. САМАРА\", \"role\": \"external\", \"address\": \"443110, Россия, Самарская обл, г Самара, Октябрьский р-н, ул Осипенко, д 32А\", \"created_at\": \"2025-11-11 03:07:44.495472\", \"data\": \"astrovolga_ru\"}, {\"email\": \"nadialew@mail.ru\", \"full_name\": \""
+      },
+      {
+        "date": "2026-05-14 16:52:46",
+        "query": "👑 Админ панель",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"results\": [{\"firstname\": \"Информация\", \"lastname\": \"Админ-Панель\", \"gender\": \"Мужской\", \"dob\": \"01.01.1902\", \"city\": \"Санкт-Петербург\", \"vk_id\": 552185080, \"data\": \"vk_08_2023\"}]}\n{\"count_result\": 1, \"count_in_page\": 50, \"records\": [{\"base_info\": {\"name\": \"Намбастер 2019\", \"description\": \"Намбастер - это телефонное сообщество к которому пользователи могут получить доступ через клиент мобильного телефона и веб-приложение.\", \"date_relevance\": \"2019\"}, \"record_id\": \"UQee5EKzj0\", \"base_record\": [["
+      },
+      {
+        "date": "2026-05-14 16:54:57",
+        "query": "+79260304019",
+        "result_preview": "Найдено: Аким, Дубейко Аким Сергеевич",
+        "full_result": "{\"phone_info\": {\"phone\": \"+7 926 030-40-19\", \"operator\": \"ПАО \\\"МегаФон\\\"\", \"region\": \"г. Москва и Московская область\", \"timezone\": \"MSK (UTC+3)\", \"local_time\": \"11:54\"}, \"extended_phone_search\": {\"phone\": \"79260304019\", \"names\": [\"аким дуб\"]}, \"results\": [{\"order_id\": \"208315003\", \"name\": \"Аким\", \"address\": \"Москва\", \"order_status\": \"delivered\", \"created_at\": \"2021-07-23T21:20:54+00:00\", \"phone\": \"79260304019\", \"data\": \"deliveryclub2022_clean\"}, {\"full_name\": \"Дубейко Аким Сергеевич\", \"phone\": "
+      },
+      {
+        "date": "2026-05-14 17:32:06",
+        "query": "+79149381129",
+        "result_preview": "Найдено: БОГАЧ РОМАН ИГОРЕВИЧ, Богач Роман Игоревич",
+        "full_result": "{\"phone_info\": {\"phone\": \"+7 914 938-11-29\", \"operator\": \"ПАО \\\"Мобильные ТелеСистемы\\\"\", \"region\": \"Иркутская обл.\", \"timezone\": \"IRKT (UTC+8)\", \"local_time\": \"17:31\"}, \"results\": [{\"phone\": \"79149381129\", \"operator\": \"ПАО Мобильные ТелеСистемы\", \"region\": \"Иркутская обл.\", \"timezone\": \"UTC+8\", \"fio\": \"БОГАЧ РОМАН ИГОРЕВИЧ\", \"inn\": \"380804506163\", \"country\": \"РОССИЯ\", \"gender\": \"M\", \"data\": \"call_centre_geo\"}, {\"bday\": \"1979-09-06\", \"credit_card\": \"5521752635887552\", \"card_expiration\": \"2028-12"
+      }
+    ],
+    "request_history": [
+      {
+        "date": "2026-05-12 17:59:34",
+        "type": "used",
+        "amount": 1,
+        "balance_after": -1
+      },
+      {
+        "date": "2026-05-12 18:00:15",
+        "type": "used",
+        "amount": 1,
+        "balance_after": -2
+      },
+      {
+        "date": "2026-05-12 18:01:09",
+        "type": "used",
+        "amount": 1,
+        "balance_after": -3
+      },
+      {
+        "date": "2026-05-12 18:10:55",
+        "type": "received",
+        "amount": 200,
+        "from_admin": "meskatov",
+        "balance_after": 197
+      },
+      {
+        "date": "2026-05-12 18:19:51",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 196
+      },
+      {
+        "date": "2026-05-12 18:23:14",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 195
+      },
+      {
+        "date": "2026-05-12 18:23:35",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 194
+      },
+      {
+        "date": "2026-05-12 18:26:50",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 193
+      },
+      {
+        "date": "2026-05-14 16:51:50",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 192
+      },
+      {
+        "date": "2026-05-14 16:51:57",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 191
+      },
+      {
+        "date": "2026-05-14 16:52:02",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 190
+      },
+      {
+        "date": "2026-05-14 16:52:29",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 189
+      },
+      {
+        "date": "2026-05-14 16:54:49",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 188
+      },
+      {
+        "date": "2026-05-14 17:28:49",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 187
+      }
+    ]
+  },
+  "7250186051": {
+    "user_id": 7250186051,
+    "username": "cheloveeek123",
+    "first_name": "человек",
+    "last_name": null,
+    "first_seen": "2026-05-12 18:05:11",
+    "last_seen": "2026-05-12 18:09:17",
+    "total_searches": 1,
+    "total_requests_received": 200,
+    "total_requests_used": 1,
+    "current_balance": 199,
+    "search_history": [
+      {
+        "date": "2026-05-12 18:05:49",
+        "query": "🔍 Поиск",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"count_result\": 0, \"count_in_page\": 50, \"records\": [], \"free_request\": true, \"time\": 0.001, \"user\": {\"login\": \"OmarMatin\", \"api_token\": \"BOqMzQ63vPTPKs7gfUDrJru62SX2JaqC\", \"subscribe\": 194526, \"subscribe_queries\": 95, \"queries\": 0, \"balance\": 0, \"referral_stats\": [[2, 1, 0], [0, 0, 0], [0, 0, 0]], \"referral_url\": \"https://dxdx.href.bot/\", \"rate\": [{\"100\": 20, \"1000\": 100, \"10000\": 500}, {\"30\": 30, \"90\": 60, \"360\": 180}]}, \"hidden\": false}"
+      }
+    ],
+    "request_history": [
+      {
+        "date": "2026-05-12 18:05:11",
+        "type": "used",
+        "amount": 1,
+        "balance_after": -1
+      },
+      {
+        "date": "2026-05-12 18:11:02",
+        "type": "received",
+        "amount": 200,
+        "from_admin": "meskatov",
+        "balance_after": 199
+      }
+    ]
+  },
+  "5999635692": {
+    "user_id": 5999635692,
+    "username": "skiaves",
+    "first_name": "кариша",
+    "last_name": null,
+    "first_seen": "2026-05-12 18:12:50",
+    "last_seen": "2026-05-14 16:55:45",
+    "total_searches": 5,
+    "total_requests_received": 50,
+    "total_requests_used": 5,
+    "current_balance": 45,
+    "search_history": [
+      {
+        "date": "2026-05-14 16:54:47",
+        "query": "🔍 Поиск",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"count_result\": 0, \"count_in_page\": 50, \"records\": [], \"free_request\": true, \"time\": 0.001, \"user\": {\"login\": \"OmarMatin\", \"api_token\": \"BOqMzQ63vPTPKs7gfUDrJru62SX2JaqC\", \"subscribe\": 25925, \"subscribe_queries\": 87, \"queries\": 0, \"balance\": 0, \"referral_stats\": [[2, 0, 0], [0, 0, 0], [0, 0, 0]], \"referral_url\": \"https://dxdx.href.bot/\", \"rate\": [{\"100\": 20, \"1000\": 100, \"10000\": 500}, {\"30\": 30, \"90\": 60, \"360\": 180}]}, \"hidden\": false}"
+      },
+      {
+        "date": "2026-05-14 16:55:19",
+        "query": "+7 915 564 1615",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"phone_info\": {\"phone\": \"+7 915 564-16-15\", \"operator\": \"ПАО \\\"Мобильные ТелеСистемы\\\"\", \"region\": \"Белгородская обл.\", \"timezone\": \"MSK (UTC+3)\", \"local_time\": \"11:55\"}, \"results\": []}\n{\"count_result\": 1, \"count_in_page\": 50, \"records\": [{\"base_info\": {\"name\": \"Телефонные номера\", \"description\": \"Телефонные номера 2025\", \"date_relevance\": \"2025\"}, \"base_record\": [[\"Номер телефона\", \"+79155641615\"], [\"Страна (столица)\", \"RU Россия (Москва)\"], [\"Код страны\", \"+7\"], [\"Код оператора\", \"915\"], [\"Оп"
+      },
+      {
+        "date": "2026-05-14 16:55:26",
+        "query": "🔍 Поиск",
+        "result_preview": "Найдено: Продуктов Поиск Сергеевич, ООО ОХРАННОЕ ПРЕДПРИЯТИЕ ПОИСК ООО ОХРАННОЕ ПРЕДПРИЯТИЕ ПОИСК",
+        "full_result": "{\"results\": [{\"bday\": \"1921-01-01\", \"credit_card\": \"5486553002650638\", \"card_expiration\": \"2028-12-31\", \"phone\": \"79162228728\", \"name\": \"Продуктов Поиск Сергеевич\", \"data\": \"alfabank_2023_v2\"}, {\"user_id\": \"27722259\", \"user_id2\": \"28553375\", \"fio\": \"ООО ОХРАННОЕ ПРЕДПРИЯТИЕ ПОИСК ООО ОХРАННОЕ ПРЕДПРИЯТИЕ ПОИСК\", \"address\": \"ЯРОСЛАВЛЬ\", \"imei\": \"НОСКОВА УЛИЦА\", \"imsi\": \"21\", \"serial_sim\": \"6\", \"data\": \"abonents_2015\"}, {\"user_id\": \"13438992\", \"user_id2\": \"14050024\", \"fio\": \"ПОИСК ООО СМФ\", \"addre"
+      },
+      {
+        "date": "2026-05-14 16:55:45",
+        "query": "ты даун мли да",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"results\": []}\n{\"count_result\": 0, \"count_in_page\": 50, \"records\": [], \"free_request\": true, \"time\": 0.012, \"user\": {\"login\": \"OmarMatin\", \"api_token\": \"BOqMzQ63vPTPKs7gfUDrJru62SX2JaqC\", \"subscribe\": 25867, \"subscribe_queries\": 86, \"queries\": 0, \"balance\": 0, \"referral_stats\": [[2, 0, 0], [0, 0, 0], [0, 0, 0]], \"referral_url\": \"https://dxdx.href.bot/\", \"rate\": [{\"100\": 20, \"1000\": 100, \"10000\": 500}, {\"30\": 30, \"90\": 60, \"360\": 180}]}, \"hidden\": false}"
+      },
+      {
+        "date": "2026-05-14 16:55:52",
+        "query": "🔍 Поиск",
+        "result_preview": "Найдено: ООО ОХРАННОЕ ПРЕДПРИЯТИЕ ПОИСК ООО ОХРАННОЕ ПРЕДПРИЯТИЕ ПОИСК, ПОИСК ООО СМФ",
+        "full_result": "{\"results\": [{\"user_id\": \"27722259\", \"user_id2\": \"28553375\", \"fio\": \"ООО ОХРАННОЕ ПРЕДПРИЯТИЕ ПОИСК ООО ОХРАННОЕ ПРЕДПРИЯТИЕ ПОИСК\", \"address\": \"ЯРОСЛАВЛЬ\", \"imei\": \"НОСКОВА УЛИЦА\", \"imsi\": \"21\", \"serial_sim\": \"6\", \"data\": \"abonents_2015\"}, {\"user_id\": \"13438992\", \"user_id2\": \"14050024\", \"fio\": \"ПОИСК ООО СМФ\", \"address\": \"420073 КАЗАНЬ КАЗАНЬ ГВАРДЕЙСКАЯ УЛИЦА 22\", \"phone\": \"79033415613\", \"data\": \"abonents_2015\"}, {\"user_id\": \"6670220\", \"user_id2\": \"6737884\", \"fio\": \"ПОИСК ОБЩЕСТВО С ОГРАНИЧЕНН"
+      }
+    ],
+    "request_history": [
+      {
+        "date": "2026-05-12 18:12:50",
+        "type": "received",
+        "amount": 50,
+        "from_admin": "meskatov",
+        "balance_after": 50
+      },
+      {
+        "date": "2026-05-14 16:54:42",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 49
+      },
+      {
+        "date": "2026-05-14 16:55:07",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 48
+      },
+      {
+        "date": "2026-05-14 16:55:21",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 47
+      },
+      {
+        "date": "2026-05-14 16:55:28",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 46
+      },
+      {
+        "date": "2026-05-14 16:55:46",
+        "type": "used",
+        "amount": 1,
+        "balance_after": 45
+      }
+    ]
+  },
+  "8253593265": {
+    "user_id": 8253593265,
+    "username": null,
+    "first_name": null,
+    "last_name": null,
+    "first_seen": "2026-05-12 18:23:00",
+    "last_seen": "2026-05-12 18:23:00",
+    "total_searches": 0,
+    "total_requests_received": 100,
+    "total_requests_used": 0,
+    "current_balance": 100,
+    "search_history": [],
+    "request_history": [
+      {
+        "date": "2026-05-12 18:23:00",
+        "type": "received",
+        "amount": 100,
+        "from_admin": "meskatov",
+        "balance_after": 100
+      }
+    ]
+  },
+  "916364731": {
+    "user_id": 916364731,
+    "username": "meketov",
+    "first_name": "🏴‍☠️meketov.me",
+    "last_name": null,
+    "first_seen": "2026-05-14 16:51:50",
+    "last_seen": "2026-05-14 17:03:48",
+    "total_searches": 2,
+    "total_requests_received": 0,
+    "total_requests_used": 3,
+    "current_balance": -3,
+    "search_history": [
+      {
+        "date": "2026-05-14 16:53:43",
+        "query": "79963513101",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"phone_info\": {\"phone\": \"+7 996 351-31-01\", \"operator\": \"ООО \\\"Скартел\\\"\", \"region\": \"Республика Дагестан\", \"timezone\": \"MSK (UTC+3)\", \"local_time\": \"11:53\"}, \"results\": []}\n{\"count_result\": 1, \"count_in_page\": 50, \"records\": [{\"base_info\": {\"name\": \"Телефонные номера\", \"description\": \"Телефонные номера 2025\", \"date_relevance\": \"2025\"}, \"base_record\": [[\"Номер телефона\", \"+79963513101\"], [\"Страна (столица)\", \"RU Россия (Москва)\"], [\"Код страны\", \"+7\"], [\"Код оператора\", \"996\"], [\"Оператор\", \"ОО"
+      },
+      {
+        "date": "2026-05-14 16:58:12",
+        "query": "79285692531",
+        "result_preview": "Найдено: данные",
+        "full_result": "{\"results\": [{\"number\": \"558178\", \"serial\": 8203, \"pib\": \"Магомедгаджиева Лиана Курбановна\", \"phone\": 79285692531, \"email\": \"liana23121982@mail.ru\", \"snils_2\": \"127-047-148 40\", \"address\": \"Респ. Дагестан, г. Дербент, ул. С.Стальского,39,35\", \"id\": 8383487, \"data\": \"gosuslugi\"}]}"
+      }
+    ],
+    "request_history": [
+      {
+        "date": "2026-05-14 16:53:33",
+        "type": "used",
+        "amount": 1,
+        "balance_after": -1
+      },
+      {
+        "date": "2026-05-14 16:57:11",
+        "type": "used",
+        "amount": 1,
+        "balance_after": -2
+      },
+      {
+        "date": "2026-05-14 17:03:49",
+        "type": "used",
+        "amount": 1,
+        "balance_after": -3
+      }
+    ]
+  },
+  "5407776394": {
+    "user_id": 5407776394,
+    "username": "no_username",
+    "first_name": "вишнева",
+    "last_name": null,
+    "first_seen": "2026-05-14 16:51:55",
+    "last_seen": "2026-05-14 16:53:18",
+    "total_searches": 1,
+    "total_requests_received": 0,
+    "total_requests_used": 1,
+    "current_balance": -1,
+    "search_history": [
+      {
+        "date": "2026-05-14 16:53:31",
+        "query": "+7 905 879 2489",
+        "result_preview": "Найдено: Краснокутская София Викторовна",
+        "full_result": "{\"phone_info\": {\"phone\": \"+7 905 879-24-89\", \"operator\": \"ПАО \\\"Вымпел-Коммуникации\\\"\", \"region\": \"Белгородская обл.\", \"timezone\": \"MSK (UTC+3)\", \"local_time\": \"11:53\"}, \"extended_phone_search\": {\"phone\": \"79058792489\", \"names\": [\"софия\"]}, \"results\": [{\"fio\": \"Краснокутская София Викторовна\", \"phone\": \"79058792489\", \"email\": \"krasnokutskaasofia9@gmail.com\", \"address\": \"Белгородская область, Грайворонский, 309370, Белгородская область, Грайворонский район, г. Грайворон, улица Мира, дом 61-а\", \"b"
+      }
+    ],
+    "request_history": [
+      {
+        "date": "2026-05-14 16:53:19",
+        "type": "used",
+        "amount": 1,
+        "balance_after": -1
+      }
+    ]
+  },
+  "667134804": {
+    "user_id": 667134804,
+    "username": "Oliver_FloresSS",
+    "first_name": "ᴀʟᴇx || ᴋоᴩᴄᴀᴩоʙ ࿘",
+    "last_name": null,
+    "first_seen": "2026-05-14 16:58:13",
+    "last_seen": "2026-05-14 17:01:25",
+    "total_searches": 1,
+    "total_requests_received": 0,
+    "total_requests_used": 1,
+    "current_balance": -1,
+    "search_history": [
+      {
+        "date": "2026-05-14 17:02:50",
+        "query": "79696536957",
+        "result_preview": "Найдено: Матвей Шатов",
+        "full_result": "{\"results\": [{\"id\": \"vk.com/id575635634\", \"phone\": 79696536957, \"name\": \"Матвей Шатов\", \"data\": \"vk_2021\"}]}\n{\"rating\": 0.0, \"views\": 57, \"operator\": \"ПАО \\\"Вымпел-Коммуникации\", \"region\": \"Волгоградская обл.\"}"
+      }
+    ],
+    "request_history": [
+      {
+        "date": "2026-05-14 17:01:25",
+        "type": "used",
+        "amount": 1,
+        "balance_after": -1
+      }
+    ]
+  }
+}
